@@ -1,4 +1,5 @@
 package com.todos.rest.basic.auth;
+
 public class AuthenticationBean {
 
     private String message;
